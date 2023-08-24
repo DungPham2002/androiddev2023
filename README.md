@@ -12,5 +12,5 @@ Student Info
 
 * Name: *Pham Van Dung*
 * ID: *BA11-031*
-* Group ID: *YGroup 1*
+* Group ID: *Group 1*
 
